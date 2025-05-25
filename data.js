@@ -106,7 +106,7 @@ var APP_DATA = {
           "yaw": 1.892855164534672,
           "pitch": 0.34073136985787045,
           "title": "Lighting",
-          "text": "Low-voltage DC lighting powered by LumenCache for energy-efficient, smart-ready illumination."
+          "text": "Low-voltage DC lighting powered by LumenCache for energy-efficient, smart-ready illumination. <br><br><a href='https://www.lumencache.com/' target='_blank'>Click here to check out Lumen Cache</a>"
         },
         {
           "yaw": -1.9151150649841426,
@@ -173,8 +173,8 @@ var APP_DATA = {
         {
           "yaw": 0.12032345396158917,
           "pitch": -0.41414266490560614,
-          "title": "HAMMER4",
-          "text": "HAMMER"
+          "title": "Breathable Canvas",
+          "text": "A tensioned architectural membrane that allows the structure to breathe while offering protection and softness"
         },
         {
           "yaw": 1.3040123979879148,
@@ -224,8 +224,8 @@ var APP_DATA = {
         {
           "yaw": 2.0124974081069853,
           "pitch": -0.8451706869145745,
-          "title": "Ventilation",
-          "text": "Durable PVC fabric lines the bathroom interior, providing a clean, moisture-resistant surface."
+          "title": "DC Fan",
+          "text": "Low-voltage DC fan provides consistent, quiet air circulation with minimal energy use."
         },
         {
           "yaw": 1.1009155986101575,
@@ -243,7 +243,7 @@ var APP_DATA = {
           "yaw": 1.905309855563769,
           "pitch": -0.1913193734023224,
           "title": "Shower",
-          "text": "Features a Rainstick showerhead and enclosed surround for a spa-like, immersive experience."
+          "text": "Features a Rainstick showerhead and enclosed surround for a spa-like, immersive experience. <br><br><a href='https://rainstickshower.com/' target='_blank'>Click here to check out RainStick</a>"
         },
         {
           "yaw": 1.4865243665003627,
@@ -264,7 +264,7 @@ var APP_DATA = {
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
-    "fullscreenButton": false,
-    "viewControlButtons": false
+    "fullscreenButton": true,
+    "viewControlButtons": true
   }
 };
