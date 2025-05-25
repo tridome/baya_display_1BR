@@ -36,17 +36,19 @@ var APP_DATA = {
           "target": "1-bedroom--kitchen"
         }
       ],
-      "infoHotspots": [
+      "buildHotspots": [
         {
           "yaw": 1.6938612708970817,
           "pitch": -0.22488109752821828,
           "title": "HAMMER",
           "text": "HAMMER"
-        },
+        }
+      ],
+      "relaxHotspots": [
         {
           "yaw": 1.591075457138012,
           "pitch": 0.5199615597184284,
-          "title": "Entry",
+          "title": "Welcoming you in",
           "text": "Even before you step inside, the space asks you to slow down."
         }
       ]
@@ -134,48 +136,50 @@ var APP_DATA = {
           "yaw": 1.6898503808190446,
           "pitch": 0.027119767180817433,
           "title": "CLOSET",
-          "text": "WORDS"
-        },
-        {
-          "yaw": 0.7866042579846937,
-          "pitch": 0.39360434400205335,
-          "title": "HAMMER",
-          "text": "WORDS"
+          "text": "Space to hang your clothes and store your luggage"
         },
         {
           "yaw": 1.1351313479642435,
           "pitch": 0.19587438210855446,
-          "title": "KITCHENET",
+          "title": "kitchenette ",
           "text": "WORDS"
+        }
+      ],
+      "buildHotspots": [
+        {
+          "yaw": 0.7866042579846937,
+          "pitch": 0.39360434400205335,
+          "title": "Countertop",
+          "text": "MicroClt Panel"
         },
         {
           "yaw": -2.4446364729685364,
           "pitch": -0.2764337209085852,
-          "title": "HAMMER",
+          "title": "HAMMER1",
           "text": "HAMMER"
         },
         {
           "yaw": -1.8471149896855668,
           "pitch": -0.4722718655755944,
-          "title": "HAMMER&nbsp;",
+          "title": "HAMMER2",
           "text": "HAMMER"
         },
         {
           "yaw": -1.4414881248355975,
           "pitch": 0.19152039880825633,
-          "title": "HAMMER",
+          "title": "HAMMER3",
           "text": "HAMMER"
         },
         {
           "yaw": 0.12032345396158917,
           "pitch": -0.41414266490560614,
-          "title": "HAMMER",
+          "title": "HAMMER4",
           "text": "HAMMER"
         },
         {
           "yaw": 1.3040123979879148,
           "pitch": 1.1321410122024673,
-          "title": "HAMMER",
+          "title": "HAMMER5",
           "text": "HAMMER"
         }
       ]
